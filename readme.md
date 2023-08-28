@@ -24,12 +24,8 @@ Machine learning, Deep learning, Audio signal process, Medical imaging process, 
 
 # Interests
 
-1. Embedded development based on wearable bioelectric signal device.
+Embedded development based on wearable bioelectric signal device.
 
-2. Machine learning in signal processing and medical imaging.
+Machine learning in signal processing and medical imaging.
 
-3. Bioelectrical signal processing and audio signal processing.
-
-# Github Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+Bioelectrical signal processing and audio signal processing.
