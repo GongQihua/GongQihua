@@ -29,3 +29,5 @@ Embedded development based on wearable bioelectric signal device.
 Machine learning in signal processing and medical imaging.
 
 Bioelectrical signal processing and audio signal processing.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GongQihua)](https://github.com/GongQihua/github-readme-stats)
