@@ -18,13 +18,9 @@
 I'm Qihua Gong from Shanghai, China. I'm currently a Software Engineer working on Industrial Automation Control and Embedded Systems.
 
 I graduated from  the Johns Hopkins University with the Master degree of Electrical and Computer Engineering and the University of Missouri Columbia with the Bachelor degrees of Electrical Engineering and Minor in Mathematics.🥳  
-  
-
-<br/>  
-
 
 ## Interests  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 Embedded development based on wearable bioelectric signal device.  
   
@@ -33,15 +29,6 @@ I graduated from  the Johns Hopkins University with the Master degree of Electri
   
 
 - ⚡ Bioelectrical signal processing and Audio signal processing.  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -68,9 +55,6 @@ Machine learning, Deep learning, Audio signal process, Medical imaging process, 
 <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 </div>  
-
-<br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
