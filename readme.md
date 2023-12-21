@@ -22,7 +22,7 @@ I graduated from  the Johns Hopkins University with the Master degree of Electri
 ## Interests  
 
 
-- 🔭 Embedded development based on wearable bioelectric signal device.  
+- 🔭 Natural Language Processing.  
   
 
 - 🌱 Machine learning in signal processing and medical imaging.  
