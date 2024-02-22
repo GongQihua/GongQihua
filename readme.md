@@ -31,12 +31,13 @@ I graduated from  the Johns Hopkins University with the Master degree of Electri
 - ⚡ Bioelectrical signal processing and Audio signal processing.  
 
 
-## Languages and Tools  
-C, C++, Python, MATLAB.
+## Languages and Tools
 
-Arduino, Raspberry pi, Circuit design, AutoCAD, OrCAD Pspice.
+Software: C, C#, Python, MATLAB, JavaScript, Swift.
 
-Machine learning, Deep learning, Audio signal process, Medical imaging process, Bioelectric signal process.  
+Hardware: Arduino, Raspberry pi, Circuit design, AutoCAD, OrCAD Pspice.
+
+AI Related: Machine learning, Deep learning, Audio signal process, Medical imaging process, Bioelectric signal process, NLP.
   
 
 <div align="center">  
