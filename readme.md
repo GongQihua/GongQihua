@@ -73,21 +73,11 @@ AI Related: Machine learning, Deep learning, Audio signal process, Medical imagi
 
 </td></tr></table>  
 
-<br/>  
+<br/>   
 
-<table><tr><td valign="top" width="50%">
-
-<[![Qihua's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gongqihua0115&CN)](https://github.com/KnlnKS/leetcode-stats) align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-[![Qihua's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gongqihua0115&CN)](https://github.com/KnlnKS/leetcode-stats)  
+[![Qihua's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gongqihua0115&CN)](https://github.com/KnlnKS/leetcode-stats)
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300">
+<br><br>
 
 <br/>  
 
