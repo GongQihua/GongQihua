@@ -75,7 +75,7 @@ AI Related: Machine learning, Deep learning, Audio signal process, Medical imagi
 
 <br/>  
 
-  
+[![Qihua's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gongqihua0115&CN)](https://github.com/KnlnKS/leetcode-stats)  
 
 <br/>  
 
