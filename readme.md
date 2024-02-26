@@ -39,8 +39,6 @@ I graduated from  the Johns Hopkins University with the Master degree of Electri
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 
-<br><br>
-
 ## Interests  
 
 
@@ -51,7 +49,6 @@ I graduated from  the Johns Hopkins University with the Master degree of Electri
   
 
 - ⚡ Bioelectrical signal processing and Audio signal processing.  
-
 
 ## Languages and Tools
 
