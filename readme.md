@@ -48,11 +48,19 @@ I graduated from the Johns Hopkins University with the Master degree of Electric
 - 🌱 Machine learning in signal processing and medical imaging.  
   
 
-- ⚡ Bioelectrical signal processing and Audio signal processing.  
+- ⚡ Bioelectrical signal processing and Audio signal processing.
+
+## Coding Area
+
+- Full Stack Development
+
+- Unity/Unreal Game Development
+
+- IOS Development
 
 ## Languages and Tools
 
-Software: C, C#, Python, MATLAB, JavaScript, Swift.
+Software: C, C#, Python, Go, MATLAB, Swift.
 
 Hardware: Arduino, Raspberry pi, Circuit design, AutoCAD, OrCAD Pspice.
 
