@@ -50,11 +50,15 @@ I graduated from the Johns Hopkins University with the Master degree of Electric
 
 - ⚡ Bioelectrical signal processing and Audio signal processing.
 
+
 ## Coding Area
 
-- Full Stack Development
 
-- Game Development
+- 🌐 Full Stack Development
+
+
+- 🎮 Game Development
+
 
 ## Languages and Tools
 
