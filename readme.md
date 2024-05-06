@@ -54,13 +54,11 @@ I graduated from the Johns Hopkins University with the Master degree of Electric
 
 - Full Stack Development
 
-- Unity/Unreal Game Development
-
-- IOS Development
+- Game Development
 
 ## Languages and Tools
 
-Software: C, C#, Python, Go, MATLAB, Swift.
+Software: C++, C#, Python, Go, MATLAB, Unity/Unreal.
 
 Hardware: Arduino, Raspberry pi, Circuit design, AutoCAD, OrCAD Pspice.
 
