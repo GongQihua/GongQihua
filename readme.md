@@ -12,7 +12,7 @@
 
 ### Glad to see you here! 
 
-This is Qihua Gong from Shanghai, China. I'm currently a Software Engineer working on Full Sctack Development. I also participate in Game development in my spare time.
+This is Qihua Gong from Shanghai, China. I'm currently a Software Engineer working on Data Science, Machine Learning and Deep Learning. I also participate in Game development in my spare time.
 
 I graduated from the Johns Hopkins University with the Master degree of Electrical and Computer Engineering and the University of Missouri Columbia with the Bachelor degrees of Electrical Engineering and Minor in Mathematics.🥳  
 
@@ -54,7 +54,7 @@ I graduated from the Johns Hopkins University with the Master degree of Electric
 ## Coding Area
 
 
-- 🌐 Full Stack Development
+- 🌐 Artificial Intelligence Development
 
 
 - 🎮 Game Development
