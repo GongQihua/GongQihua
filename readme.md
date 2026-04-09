@@ -72,27 +72,9 @@ AI Related: Machine learning, Deep learning, Audio signal process, Medical imagi
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GongQihua&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GongQihua&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>   
-
-[![Qihua's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gongqihua0115&CN)](https://github.com/KnlnKS/leetcode-stats)
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300">
-<br><br>
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=GongQihua&&style=flat-square)  
   
-
 <br/>  
 
